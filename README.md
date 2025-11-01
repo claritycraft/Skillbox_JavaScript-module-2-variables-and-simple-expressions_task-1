@@ -51,7 +51,10 @@ This project is for educational purposes only. Do not copy or redistribute witho
 ## Ru: Лицензия
 Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
 
+## En: Demonstration
+## Ru: Демонстрация
 
-## Демонстрация
+![1-1](https://github.com/user-attachments/assets/54b41eda-e43a-44d7-b7be-d798b004f1e9)
+
 
 
