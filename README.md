@@ -1,6 +1,9 @@
 # En: Skillbox_JavaScript-module-2-variables-and-simple-expressions_task-1
 # Ru: Skillbox_JavaScript-модуль-2-переменные-и-простые-выражения_задание-1
 
+#### Please give this project a star ⭐ if you found it interesting.
+#### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+
 ### Ru:
 #### Задача 1
 Цель задания
